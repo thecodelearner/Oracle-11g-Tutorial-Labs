@@ -1,7 +1,6 @@
 # Oracle 11g Tutorial Labs
-# Project Title
 
-One Paragraph of project description goes here
+This is a github repo for ZenSar Oracle 11G training lab.
 
 ## Getting Started
 
@@ -15,23 +14,51 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
+- Oracle 11g XE Edition
+- jdk
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
 ```
 Give the example
 ```
+To install the Oracle software, you must use the Oracle Universal installer.
 
-And repeat
+1.	
+For this installation, you need either the DVDs or a downloaded version of the DVDs. In this tutorial, you install from the downloaded version. From the directory where the DVD files were unzipped, open Windows Explorer and double-click on setup.exe from the \db\Disk1 directory.
 
+2.	
+The product you want to install is Oracle Database 11g. Make sure the product is selected and click Next.
+
+3.	
+You will perform a basic installation with a starter database. Enter orcl for the Global Database Name and oracle for Database Password and Confirm Password. Then, click Next.
+
+4.	
+Oracle Configuration Manager allows you to associate your configuration information with your Metalink account. You can choose to enable it on this window. Then, click Next.
+
+5.	
+Review the Summary window to verify what is to be installed. Then, click Install.
+ 
+6.	
+The progress window appears.
+
+7.	
+The Configuration Assistants window appears.
+
+8.	
+Your database is now being created.
+
+9.	
+When the database has been created, you can unlock the users you want to use. Click OK.
+
+10.	
+Click Exit. Click Yes to confirm exit.
+
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/11g/r1/prod/install/dbinst/windbinst2.htm
 ```
 until finished
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
