@@ -20,9 +20,7 @@ Give examples
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
-```
-Give the example
-```
+
 To install the Oracle software, you must use the Oracle Universal installer.
 
 1.	
@@ -56,9 +54,6 @@ When the database has been created, you can unlock the users you want to use. Cl
 Click Exit. Click Yes to confirm exit.
 
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/11g/r1/prod/install/dbinst/windbinst2.htm
-```
-until finished
-```
 
 ## Running the tests
 
@@ -68,17 +63,13 @@ Explain how to run the automated tests for this system
 
 Explain what these tests test and why
 
-```
-Give an example
-```
+
 
 ### And coding style tests
 
 Explain what these tests test and why
 
-```
-Give an example
-```
+
 
 ## Deployment
 
@@ -100,7 +91,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sahil Sanghavi** - *Initial work* - [Sahil Sanghavi](https://github.com/thecodelearner)
+* **Prathamesh S** - *Initial work* - [Prathamesh S](https://github.com/ThePratham99)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
